@@ -1,5 +1,8 @@
+# Currently broken
+The weather station coordinates no longer work and result in a 404
 
-Works in latest Chrome and Firefox.
+
+Worked in Chrome and Firefox.
 Minimalistic demo of government weather API, getting the current weather for Chicago.
 
 The demo:
