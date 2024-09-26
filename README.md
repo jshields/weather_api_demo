@@ -1,4 +1,4 @@
-# Currently broken
+# 🚧 Currently broken due to API changes
 The weather station coordinates no longer work and result in a 404
 
 
